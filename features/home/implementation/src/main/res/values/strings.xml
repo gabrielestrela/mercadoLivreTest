@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_clear">Clear search bar</string>
+    <string name="accessibility_search">Search icon</string>
+    <string name="accessibility_chevron">Search</string>
+    <string name="search_input_placeholder">Search for</string>
+</resources>
